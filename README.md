@@ -4,6 +4,8 @@ acessei o navegador Edge e selecionei a opção do Copilot.
 
 em seguida, inserir a imagem da memoria ram e solicitei os detalhes da imagem. 
 
+![pedido de descrição memoria ram](https://github.com/elvis1701/Lab-ai-Elvis02-24/assets/68926559/37e8c9cd-f102-4f73-ba5f-6a8369fd9cb8)
+
 o Copilot responde as seguintes informações:
 
 " A imagem que você enviou é de um módulo de memória RAM. Aqui estão os detalhes:
@@ -15,6 +17,7 @@ Os conectores dourados na parte inferior do módulo são usados para instalar o 
 Ao longo da borda superior do módulo, existem marcações como “D15”, “D14”, etc. Essas podem indicar pontos específicos ou componentes na placa."
 
 em seguida, inserir a imagem da placa-mae e solicitei os detalhes da imagem.
+![pedido de descrição placa mae](https://github.com/elvis1701/Lab-ai-Elvis02-24/assets/68926559/868303e0-8b4f-413a-8c3e-5a482ccd2261)
  
 o Copilot responde as seguintes informações:
 
@@ -29,6 +32,8 @@ Componentes como VRMs (módulos reguladores de tensão) que ajudam na distribui�
 O design geral é compacto e organizado para acomodar todos os componentes necessários para o funcionamento do computador."
  
 em seguida, inserir a imagem de um processador e solicitei os detalhes da imagem.
+
+![pedido de descrição Processador](https://github.com/elvis1701/Lab-ai-Elvis02-24/assets/68926559/3b2b28b5-2ee3-4c33-8427-3547096788d1)
  
 o Copilot responde as seguintes informações:
 
